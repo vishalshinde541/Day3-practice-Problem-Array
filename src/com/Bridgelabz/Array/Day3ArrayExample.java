@@ -11,6 +11,7 @@ public class Day3ArrayExample {
 		ar[3] = 40;
 		ar[4] = 50;
 		
+		
 		System.out.println("---Print single element of an array---");
 		System.out.println(ar[1]);    
 		
